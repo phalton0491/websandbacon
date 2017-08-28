@@ -1,0 +1,38 @@
+*{
+    font-family: Roboto Slab;
+}
+
+h1,h2{
+    margin:20px 0;
+    font-family: 'Bree Serif', serif;
+}
+
+#_wab-main{
+    background:#2F98BD;
+    color:#333;
+}
+
+#_wab-main-header{
+    margin-bottom: 0;
+}
+
+#_wab-slogan{
+    margin-top: 0;
+}
+
+#_wab-main-navigation{
+    margin-top: 25px;
+}
+
+#_wab-navigation{
+    display: inline;
+    margin-left: 0;
+    padding-left: 0;
+}
+#_wab-navigation li{
+    display: inline;
+    margin-left: 10px;
+}
+#_wab-navigation li a{
+    color:#FFF;
+}
