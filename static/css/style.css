@@ -14,10 +14,15 @@ h1,h2{
 
 #_wab-main-header{
     margin-bottom: 0;
+    font-size: 3.2em;
 }
 
 #_wab-slogan{
     margin-top: 0;
+}
+
+#_wab-main-logo{
+    width:250px;
 }
 
 #_wab-main-navigation{
